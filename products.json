@@ -1,0 +1,16 @@
+{
+  "products":[
+    {"productName": "Gigabyte GeForce RTX 3060 Ti VISION OC 8GB GDDR6 (GVN306TVISIONOC8GD)",
+    "ceneoId": "103359876",
+    "targetPrice": 7000
+    },
+    {"productName": "Zotac GeForce RTX 3060 Ti AMP WE LHR 8GB GDDR6 (ZTA30610F10PLHR)",
+    "ceneoId": "114861609",
+    "targetPrice": 7000
+    },
+    {"productName": "Gigabyte Aorus Geforce Rtx 3060 Ti Elite 8GB GDDR6 (GVN306TAORUSE8GD)",
+    "ceneoId": "113707674",
+    "targetPrice": 7000
+    }
+]
+}
